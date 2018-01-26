@@ -1,0 +1,4 @@
+scriptName: compare-PT-MCMC.nf
+start: Fri Jan 26 10:55:50 PST 2018
+runName: stoic_lamarck
+nextflow.version: 0.27.2
