@@ -1,7 +1,7 @@
 Summary
 -------
 
-An example of how to run blang as part of Nextflow execution workflow. 
+An example of how to run Blang as part of Nextflow execution pipeline. 
 
 Usage
 -----
