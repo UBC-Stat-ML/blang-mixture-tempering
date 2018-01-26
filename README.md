@@ -31,3 +31,5 @@ You can see that the chain will not be able to discover the symmetric solution o
 With 8 chains now:
 ![image](https://user-images.githubusercontent.com/3318185/35456360-0734e0a4-028a-11e8-9c68-ba78c73db7db.png)
 So we see that we do switch.
+
+See the [workflow file](https://github.com/UBC-Stat-ML/blang-mixture-tempering/blob/master/compare-PT-MCMC.nf), which builds the Blang code, download dependencies, get the data, then runs Blang with various command line arguments, and finally creates plots in ``deliverables``.
